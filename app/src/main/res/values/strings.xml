@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DesafioEvaluado</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password_hint">Ingrese su contraseña</string>
+    <string name="submit_button">Validar Contraseña</string>
+    <string name="password_criteria">La contraseña debe tener al menos 5 caracteres y 1 Mayuscula</string>
+    <string name="validador_de_contrase_as">Validador de Contraseñas</string>
+    <string name="todo">TODO</string>
+    <string name="resultado">Resultado</string>
+    <string name="recuerda_que_para_que_una_constrase_a_sea_segura_debes_seguir_con_las_siguientes_recomendaciones">Recuerda que para que una constraseña sea segura debes seguir con las siguientes recomendaciones:</string>
+    <string name="debe_contener_al_menos_5_caracteres"><![CDATA[-> Debe Contener al menos 5 Caracteres]]></string>
+    <string name="al_menos_1_mayuscula"><![CDATA[-> Al menos 1 mayuscula]]></string>
+    <string name="al_menos_un_caracter_especial"><![CDATA[-> Al menos un caracter especial *#$&+]]></string>
+    <string name="al_menos_1_numero"><![CDATA[-> Al menos 1 numero]]></string>
+    <string name="no_ingreses_tu_nombre_o_fecha_de_nacimiento"><![CDATA[-> No ingreses tu nombre o fecha de nacimiento]]></string>
+    <string name="todo1">TODO</string>
+</resources>
