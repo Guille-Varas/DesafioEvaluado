@@ -43,6 +43,7 @@ public class MainFragment extends Fragment {
             }
         });
 
+
         // Agrega el OnClickListener al botón
         binding.buttonSubmit.setOnClickListener(new View.OnClickListener() {
             @Override
